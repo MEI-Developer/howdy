@@ -17,3 +17,14 @@ branch-1
 math
 
 2+2 = 4
+-------
+
+how does merging works
+step 1 work on file
+step 2 save file
+step 3 add file
+step 4 commit file
+step 5 publish branch
+step 6 open other branch
+
+----------------------- write rest in next branch
