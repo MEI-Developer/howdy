@@ -28,3 +28,6 @@ step 5 publish branch
 step 6 open other branch
 
 ----------------------- write rest in next branch
+
+step 7 merge recently changed branch with old branch
+step 8 change content and advance it. 
